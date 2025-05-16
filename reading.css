@@ -1,10 +1,21 @@
 
+body {
+    background: aliceblue url("tiles3.jpeg") repeat local 0 0;
+}
+
 #title {
     color: darkseagreen;
     text-align: center;
     }
-
+#twentyfive {
+    color: darkseagreen;
+    background-color:aliceblue;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 #book1 {
     color: darkseagreen;
     background-color:aliceblue;
+    margin-left: 100px;
+    margin-right: 100px;
 }
